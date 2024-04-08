@@ -2,7 +2,7 @@
  Servo s1;
  void setup()
  { 
-s1.attach(0); // servo attach D3 pin of arduino
+s1.attach(0); // servo attach D3 pin of nodemcu
  }
  void loop() 
 { 
